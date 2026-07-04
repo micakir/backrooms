@@ -1,81 +1,67 @@
 fileFormatVersion: 2
-guid: fca8df1c7aaa7446194e004ab3098a18
+guid: 6219e4cd1041f034c8d08a7a50f581d8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Backroom1
-    100002: Backroom1_paredes1.1
-    100004: Backroom1_paredes1.2
-    100006: Backroom1_piso
-    100008: Backroom1_techo
-    100010: //RootNode
-    100012: Referencia
-    400000: Backroom1
-    400002: Backroom1_paredes1.1
-    400004: Backroom1_paredes1.2
-    400006: Backroom1_piso
-    400008: Backroom1_techo
-    400010: //RootNode
-    400012: Referencia
+    100000: //RootNode
+    100002: Referencia
+    100004: Zona1
+    100006: Zona1ParedesExteriores
+    100008: Zona1ParedesInteriores
+    100010: Zona1Piso
+    100012: Zona1Techo
+    400000: //RootNode
+    400002: Referencia
+    400004: Zona1
+    400006: Zona1ParedesExteriores
+    400008: Zona1ParedesInteriores
+    400010: Zona1Piso
+    400012: Zona1Techo
     2100000: No Name
-    2100002: Material
-    2100004: ParedesTexture
-    2100006: Material.002
-    2300000: Backroom1
-    2300002: Backroom1_paredes1.1
-    2300004: Backroom1_paredes1.2
-    2300006: Backroom1_piso
-    2300008: Backroom1_techo
-    2300010: Referencia
-    3300000: Backroom1
-    3300002: Backroom1_paredes1.1
-    3300004: Backroom1_paredes1.2
-    3300006: Backroom1_piso
-    3300008: Backroom1_techo
-    3300010: Referencia
-    4300000: Backroom1
-    4300002: Referencia
-    4300004: Backroom1_techo
-    4300006: Backroom1_paredes1.1
-    4300008: Backroom1_piso
-    4300010: Backroom1_paredes1.2
+    2100002: Paredes
+    2100004: MaderaRefrescante
+    2100006: Piso
+    2100008: Techo
+    2300000: Referencia
+    2300002: Zona1
+    2300004: Zona1ParedesExteriores
+    2300006: Zona1ParedesInteriores
+    2300008: Zona1Piso
+    2300010: Zona1Techo
+    3300000: Referencia
+    3300002: Zona1
+    3300004: Zona1ParedesExteriores
+    3300006: Zona1ParedesInteriores
+    3300008: Zona1Piso
+    3300010: Zona1Techo
+    4300000: Referencia
+    4300002: Zona1
+    4300004: Zona1ParedesExteriores
+    4300006: Zona1ParedesInteriores
+    4300008: Zona1Piso
+    4300010: Zona1Techo
     2186277476908879412: ImportLogs
   externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: f97fd82a0fc934109b10d1001590dbae, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: 2100000, guid: baf8ebb9f4dc5402397c46d8eee4384b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: ce1de23aec91d4e55b2d90da412d04c2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ParedesTexture
-    second: {fileID: 2100000, guid: 89cdf999b28854cd1a59b2af64656148, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backrooms floor
-    second: {fileID: 2800000, guid: 9111ca51dbaf3498ba28c00db5db6a97, type: 3}
+    second: {fileID: 2800000, guid: 2c0277280bda7c441b30ebdb0058bf39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Backrooms madera
+    second: {fileID: 2800000, guid: d25340d283e89fd42ae29595de1223fe, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backrooms techo
-    second: {fileID: 2800000, guid: 2b0090e0374e5427bb0012ea44753498, type: 3}
+    second: {fileID: 2800000, guid: e349518c0a97d3740a0c240f4e22d44e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backrooms texture
-    second: {fileID: 2800000, guid: 27a7efda440da45f1810dbf2adcfa8c0, type: 3}
+    second: {fileID: 2800000, guid: dd19a7fcd0f668c4c8daa5c7363c4250, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
