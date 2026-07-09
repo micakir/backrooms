@@ -1,81 +1,116 @@
 fileFormatVersion: 2
-guid: fca8df1c7aaa7446194e004ab3098a18
+guid: bab6b5501602d42e7a2d8e47ea6306af
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Backroom1
-    100002: Backroom1_paredes1.1
-    100004: Backroom1_paredes1.2
-    100006: Backroom1_piso
-    100008: Backroom1_techo
-    100010: //RootNode
-    100012: Referencia
-    400000: Backroom1
-    400002: Backroom1_paredes1.1
-    400004: Backroom1_paredes1.2
-    400006: Backroom1_piso
-    400008: Backroom1_techo
-    400010: //RootNode
-    400012: Referencia
+    100000: //RootNode
+    100002: Bacrooms3
+    100004: Bacrooms3_ParedE1
+    100006: Bacrooms3_ParedE2
+    100008: Bacrooms3_ParedE3
+    100010: Bacrooms3_ParedE4
+    100012: Bacrooms3_Pilar3
+    100014: Bacrooms3_Pilar4
+    100016: Bacrooms3_PilarI1
+    100018: Bacrooms3_Pilari2
+    100020: Bacrooms3_PilarI5
+    100022: Bacrooms3_Piso
+    100024: Bacrooms3_Techo
+    100026: Referencia.001
+    400000: //RootNode
+    400002: Bacrooms3
+    400004: Bacrooms3_ParedE1
+    400006: Bacrooms3_ParedE2
+    400008: Bacrooms3_ParedE3
+    400010: Bacrooms3_ParedE4
+    400012: Bacrooms3_Pilar3
+    400014: Bacrooms3_Pilar4
+    400016: Bacrooms3_PilarI1
+    400018: Bacrooms3_Pilari2
+    400020: Bacrooms3_PilarI5
+    400022: Bacrooms3_Piso
+    400024: Bacrooms3_Techo
+    400026: Referencia.001
     2100000: No Name
-    2100002: Material
-    2100004: ParedesTexture
-    2100006: Material.002
-    2300000: Backroom1
-    2300002: Backroom1_paredes1.1
-    2300004: Backroom1_paredes1.2
-    2300006: Backroom1_piso
-    2300008: Backroom1_techo
-    2300010: Referencia
-    3300000: Backroom1
-    3300002: Backroom1_paredes1.1
-    3300004: Backroom1_paredes1.2
-    3300006: Backroom1_piso
-    3300008: Backroom1_techo
-    3300010: Referencia
-    4300000: Backroom1
-    4300002: Referencia
-    4300004: Backroom1_techo
-    4300006: Backroom1_paredes1.1
-    4300008: Backroom1_piso
-    4300010: Backroom1_paredes1.2
+    2100002: Paredes
+    2100004: Techo
+    2100006: Piso
+    2300000: Bacrooms3
+    2300002: Bacrooms3_ParedE1
+    2300004: Bacrooms3_ParedE2
+    2300006: Bacrooms3_ParedE3
+    2300008: Bacrooms3_ParedE4
+    2300010: Bacrooms3_Pilar3
+    2300012: Bacrooms3_Pilar4
+    2300014: Bacrooms3_PilarI1
+    2300016: Bacrooms3_Pilari2
+    2300018: Bacrooms3_PilarI5
+    2300020: Bacrooms3_Piso
+    2300022: Bacrooms3_Techo
+    2300024: Referencia.001
+    3300000: Bacrooms3
+    3300002: Bacrooms3_ParedE1
+    3300004: Bacrooms3_ParedE2
+    3300006: Bacrooms3_ParedE3
+    3300008: Bacrooms3_ParedE4
+    3300010: Bacrooms3_Pilar3
+    3300012: Bacrooms3_Pilar4
+    3300014: Bacrooms3_PilarI1
+    3300016: Bacrooms3_Pilari2
+    3300018: Bacrooms3_PilarI5
+    3300020: Bacrooms3_Piso
+    3300022: Bacrooms3_Techo
+    3300024: Referencia.001
+    4300000: Referencia.001
+    4300002: Bacrooms3
+    4300004: Bacrooms3_ParedE1
+    4300006: Bacrooms3_ParedE2
+    4300008: Bacrooms3_ParedE3
+    4300010: Bacrooms3_ParedE4
+    4300012: Bacrooms3_Techo
+    4300014: Bacrooms3_Piso
+    4300016: Bacrooms3_PilarI1
+    4300018: Bacrooms3_Pilari2
+    4300020: Bacrooms3_Pilar3
+    4300022: Bacrooms3_Pilar4
+    4300024: Bacrooms3_PilarI5
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: f97fd82a0fc934109b10d1001590dbae, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: 2100000, guid: baf8ebb9f4dc5402397c46d8eee4384b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: No Name
-    second: {fileID: 2100000, guid: ce1de23aec91d4e55b2d90da412d04c2, type: 2}
+    second: {fileID: 2100000, guid: f71e3fc79137c48e680d53aba2d789d8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: ParedesTexture
-    second: {fileID: 2100000, guid: 89cdf999b28854cd1a59b2af64656148, type: 2}
+      name: Paredes
+    second: {fileID: 2100000, guid: 73fb4fce407284761af4aeab1218bf6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso
+    second: {fileID: 2100000, guid: 839e99de0042a431281f4f4c1c718eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: 24be0036e1b174b468cead0682ee6eac, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backrooms floor
-    second: {fileID: 2800000, guid: 523bcf371a87d4cb09d07b9cde21eb24, type: 3}
+    second: {fileID: 2800000, guid: 1c4fe010dcb4d43ac9cbef6cf4bbbbef, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backrooms techo
-    second: {fileID: 2800000, guid: e9038927fd34c4b73974614a594e5c2e, type: 3}
+    second: {fileID: 2800000, guid: 0331dd59c007a4357b1ff25a662fbff5, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backrooms texture
-    second: {fileID: 2800000, guid: 49ae91d1d37eb4fc09be77170483bc31, type: 3}
+    second: {fileID: 2800000, guid: f3d832335424f437e8f4a1a05a8a0c55, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

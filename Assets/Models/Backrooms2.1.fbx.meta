@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: a70d47d99e8e14017a93b40c5d1f5434
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Backrooms2
+    100002: //RootNode
+    100004: Backrooms2_Embudo1
+    100006: Backrooms2_Embudo2
+    100008: Backrooms2_Embudo3
+    100010: Backrooms2_Embudo4
+    100012: Backrooms2_ParedE1
+    100014: Backrooms2_ParedE3
+    100016: Backrooms2_ParedI1
+    100018: Backrooms2_ParedI2
+    100020: Backrooms2_Piso
+    100022: Backrooms2_Techo
+    100024: Backrooms2ParedE2
+    100026: Referencia.001
+    400000: Backrooms2
+    400002: //RootNode
+    400004: Backrooms2_Embudo1
+    400006: Backrooms2_Embudo2
+    400008: Backrooms2_Embudo3
+    400010: Backrooms2_Embudo4
+    400012: Backrooms2_ParedE1
+    400014: Backrooms2_ParedE3
+    400016: Backrooms2_ParedI1
+    400018: Backrooms2_ParedI2
+    400020: Backrooms2_Piso
+    400022: Backrooms2_Techo
+    400024: Backrooms2ParedE2
+    400026: Referencia.001
+    2100000: No Name
+    2100002: Paredes
+    2100004: Piso
+    2100006: Techo
+    2100008: MaderaRefrescante
+    2300000: Backrooms2
+    2300002: Backrooms2_Embudo1
+    2300004: Backrooms2_Embudo2
+    2300006: Backrooms2_Embudo3
+    2300008: Backrooms2_Embudo4
+    2300010: Backrooms2_ParedE1
+    2300012: Backrooms2_ParedE3
+    2300014: Backrooms2_ParedI1
+    2300016: Backrooms2_ParedI2
+    2300018: Backrooms2_Piso
+    2300020: Backrooms2_Techo
+    2300022: Backrooms2ParedE2
+    2300024: Referencia.001
+    3300000: Backrooms2
+    3300002: Backrooms2_Embudo1
+    3300004: Backrooms2_Embudo2
+    3300006: Backrooms2_Embudo3
+    3300008: Backrooms2_Embudo4
+    3300010: Backrooms2_ParedE1
+    3300012: Backrooms2_ParedE3
+    3300014: Backrooms2_ParedI1
+    3300016: Backrooms2_ParedI2
+    3300018: Backrooms2_Piso
+    3300020: Backrooms2_Techo
+    3300022: Backrooms2ParedE2
+    3300024: Referencia.001
+    4300000: Referencia.001
+    4300002: Backrooms2
+    4300004: Backrooms2_ParedE1
+    4300006: Backrooms2ParedE2
+    4300008: Backrooms2_ParedE3
+    4300010: Backrooms2_Piso
+    4300012: Backrooms2_Techo
+    4300014: Backrooms2_ParedI1
+    4300016: Backrooms2_ParedI2
+    4300018: Backrooms2_Embudo1
+    4300020: Backrooms2_Embudo2
+    4300022: Backrooms2_Embudo3
+    4300024: Backrooms2_Embudo4
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

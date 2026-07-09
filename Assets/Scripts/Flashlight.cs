@@ -12,15 +12,5 @@ public class Flashlight : MonoBehaviour
         {
             flashLight.enabled = !flashLight.enabled;
         }
-
-        if (flashLight.enabled)
-        {
-            battery -= drainSpeed * Time.deltaTime;
-            if (battery <= 0)
-            {
-                battery = 0;
-                flashLight.enabled = false;
-            }
-        }
     }
 }
